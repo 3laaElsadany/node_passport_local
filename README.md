@@ -11,4 +11,4 @@ This project demonstrates how to use `passport-local` strategy to implement user
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/3laaElsadany/passport_local.git
+   git clone https://github.com/3laaElsadany/node_passport_local.git
